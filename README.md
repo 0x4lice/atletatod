@@ -9,6 +9,9 @@ auto claim for mini telegram app atleta tap
 
 Register bot [Here](https://t.me/Atleta_tap_bot/tap?startapp=613b0024-cba3-4c43-a133-fe24be6d4892)
    ```
+   git clone https://github.com/0x4lice/atletatod/
+   ```
+   ```
    pip install -r requirements.txt
    ```
    ```
